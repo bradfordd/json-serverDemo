@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "firstName": "Dylan",
+      "lastName": "Bradford",
+      "subjectId": 1,
+      "id": 1
+    },
+    {
+      "firstName": "Finn",
+      "lastName": "Mertins",
+      "subjectId": 2,
+      "id": 2
+    },
+    {
+      "firstName": "Marceline",
+      "lastName": "Abadeer",
+      "subjectId": 1,
+      "id": 3
+    },
+    {
+      "firstName": "Simon",
+      "lastName": "Petrikov",
+      "subjectId": 4,
+      "id": 4
+    }
+  ],
+  "subjects": [
+    {
+      "name": "Automation",
+      "id": 1
+    },
+    {
+      "name": "DevOps",
+      "id": 2
+    }
+  ]
+}
